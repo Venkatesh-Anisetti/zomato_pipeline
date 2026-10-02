@@ -17,3 +17,5 @@ sources:
         description: "This table contains the raw data of order items from Zomato."
       - name: reviews
         description: "This table contains the raw data of reviews from Zomato."
+
+  - name: ai
